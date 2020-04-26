@@ -1,0 +1,26 @@
+.activity-bar{
+    margin-bottom: 20px;
+    border-bottom: 1px solid;
+    padding: 20px;
+    margin-top: -20px;
+}
+.inputBox {
+    margin-top: 10px;
+    height: 30px;
+    width: 100%;
+    color: #111;
+    border: solid 1px #88b0c0;
+    border-radius: 3px;
+    padding: 6px;
+    font-size: 13px;
+}
+.sucess-button{
+    margin-top: 20px;
+}
+#btn-reset:disabled{
+    cursor: default;
+}
+#btn-reset {
+    display: none;
+    margin-left : 10px;
+}
